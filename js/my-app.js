@@ -14,7 +14,7 @@ $.ajaxSetup({
 // Export selectors engine
 var $$ = Framework7.$;
 
-var serverURI = "http://127.0.0.1:8888/"
+var serverURI = "http://codeashobby.com:8080/";
 
 // Add views
 var view1 = myApp.addView('#view-1');
