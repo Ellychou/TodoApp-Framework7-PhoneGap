@@ -401,6 +401,6 @@ function deleteTask(obj) {
         
     })
     
-｝
+}
 
 
