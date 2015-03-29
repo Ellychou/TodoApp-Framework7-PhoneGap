@@ -200,6 +200,7 @@ myApp.addNewTask = function (taskName, time) {
         }),
         success : function(data) {
            myApp.alert( data.message);
+            document.location = 'index.html';
         },
         error : function(data) { 
             myApp.alert(data.message);    
