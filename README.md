@@ -1,6 +1,8 @@
 # TodoApp-Framework7-PhoneGap
 User can manage what they will do in the future by this TODO APP.
+
 Main features:
+
 1. Sign Up
 2. Login/logout
 3. Add new task
